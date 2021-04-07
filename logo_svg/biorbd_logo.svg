@@ -16,7 +16,7 @@
    id="svg903"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="biorbd_logo.svg"
-   inkscape:export-filename="/home/pariterre/Programmation/biorbd_design/logos_svg/image.png"
+   inkscape:export-filename="/home/pariterre/Programmation/biorbd_design/logo_png/biorbd_logo.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="271.94244"
+     inkscape:cx="153.75459"
      inkscape:cy="78.582553"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
