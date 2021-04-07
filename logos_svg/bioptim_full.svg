@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="151.03313mm"
+   height="52.971764mm"
+   viewBox="0 0 151.03313 52.971764"
    version="1.1"
    id="svg903"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="bioptim_full.svg">
+   sodipodi:docname="bioptim_full.svg"
+   inkscape:export-filename="/home/pariterre/Programmation/biorbd_design/logos_svg/bioptim_full.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs897">
     <marker
@@ -33,6 +36,24 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
     </marker>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask915">
+      <path
+         inkscape:connector-curvature="0"
+         id="path917"
+         style="fill:#ffffff;fill-opacity:0.9899666;stroke:none;stroke-width:0.7709747;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:45;stroke-dasharray:0.77097469, 1.54194937;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 53.40068,72.265606 A 26.48585,26.48585 0 0 0 26.91498,98.751498 26.48585,26.48585 0 0 0 53.40068,125.23737 26.48585,26.48585 0 0 0 79.886561,98.751498 26.48585,26.48585 0 0 0 53.40068,72.265606 Z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask937">
+      <path
+         d="M 118.00577,74.258579 A 63.043004,63.043004 0 0 0 54.963127,137.30168 63.043004,63.043004 0 0 0 118.00577,200.34474 63.043004,63.043004 0 0 0 181.04885,137.30168 63.043004,63.043004 0 0 0 118.00577,74.258579 Z"
+         style="fill:#ffffff;fill-opacity:0.9899666;stroke:none;stroke-width:1.83511424;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:45;stroke-dasharray:1.83511424, 3.67022845;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path939"
+         inkscape:connector-curvature="0" />
+    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,17 +62,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="177.86782"
-     inkscape:cy="555.1205"
+     inkscape:zoom="1.979899"
+     inkscape:cx="270.56508"
+     inkscape:cy="96.902568"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-grids="false" />
   <metadata
      id="metadata900">
     <rdf:RDF>
@@ -60,88 +87,82 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-26.91498,-72.265607)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path16852-4"
+       style="fill:#90a959;fill-opacity:0.98823529;stroke:none;stroke-width:0.7709747;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:45;stroke-dasharray:0.77097469, 1.54194937;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 53.40068,72.265607 A 26.48585,26.48585 0 0 0 26.91498,98.751498 26.48585,26.48585 0 0 0 53.40068,125.23737 26.48585,26.48585 0 0 0 79.886561,98.751498 26.48585,26.48585 0 0 0 53.40068,72.265607 Z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.69700003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-6)"
+       d="m 29.868777,79.285389 4.227415,12.881859 5.342852,1.9514 4.658651,6.219562 1.54968,7.80464"
+       id="path16866-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       mask="url(#mask915)" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.4938798;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path20659-9"
+       cx="46.790703"
+       cy="115.22488"
+       r="4.1727042" />
     <g
-       id="g4643"
-       transform="translate(-10.920879,-16.941912)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       id="g23889-3"
+       transform="matrix(0.42012354,0,0,0.42012354,3.823677,41.067829)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       mask="url(#mask937)">
       <g
-         id="g4528">
+         id="g22600-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         transform="matrix(-261.7876,0,0,261.7876,185.53447,115.82039)">
         <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="path22596-2"
+           d="M 0.185972,0.05929083 0.191953,0.1388031 0.2361774,0.2010039 0.3190987,0.2301811 c 0.012374,0.004315 0.005768,0.0232717 -0.006606,0.0189606 L 0.2266854,0.2189448 c -0.001823,-6.3386e-4 -0.00348,-0.001799 -0.004724,-0.003457 L 0.1794338,0.1648697 0.0913236,0.1645508 0.018111,0.198913 C 0.0015323,0.205881 -0.0071764,0.18735 0.007422,0.1793973 0.0456189,0.1629957 0.0633314,0.1533382 0.0782212,0.1457989 0.0839181,0.1435309 0.0884377,0.1427119 0.0942842,0.1428189 L 0.1579023,0.1406099 0.1210142,0.07631953 0.089048,0.0964878 C 0.084233,0.0994839 0.0778354,0.0942909 0.0778354,0.0942909 L 0.0444653,0.0482082 C 0.038048,0.0393539 0.04545243,0.0301571 0.05186983,0.0390154 L 0.0868315,0.0781373 0.1342252,0.0486767 C 0.1359102,0.0476295 0.1520638,0.042598 0.1539732,0.0430114 L 0.2180283,0.0362949 c 0.006453,-0.0012087 0.0126142,0.0053622 0.0143031,0.0105354 0,0 0.0128317,0.04587653 0.0157547,0.05148678 0.002923,0.00561 -0.003208,0.01889846 -0.009448,0.0074805 L 0.2149535,0.0552831 Z"
+           class="fil0"
            inkscape:connector-curvature="0"
-           id="path16852-4"
-           style="fill:#90a959;fill-opacity:0.98823529;stroke:none;stroke-width:0.7709747;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:45;stroke-dasharray:0.77097469, 1.54194937;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-           d="m 64.321559,89.207519 a 26.48585,26.48585 0 0 0 -26.4857,26.485891 26.48585,26.48585 0 0 0 26.4857,26.48587 A 26.48585,26.48585 0 0 0 90.80744,115.69341 26.48585,26.48585 0 0 0 64.321559,89.207519 Z" />
+           sodipodi:nodetypes="cccccccccccccccccccccccczccc" />
         <path
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.69700003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-6)"
-           d="m 40.789656,96.227301 4.227415,12.881859 5.342852,1.9514 4.658651,6.21956 1.54968,7.80464"
-           id="path16866-7"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="path22598-8"
+           d="m 0.16303915,0.00269494 c 0.008881,0.01052481 -0.0121808,0.00780116 -0.0121808,0.02074206 0,0.0129449 -0.0104961,0.0234409 -0.023437,0.0234409 -0.0129449,0 -0.0251929,-0.01369204 -0.0229898,-0.02644799 0.004962,-0.02872812 0.0502596,-0.02762779 0.0586076,-0.01773497 z"
+           class="fil1"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.4938798;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-           id="path20659-9"
-           cx="57.711582"
-           cy="132.16679"
-           r="4.1727042" />
-        <g
-           id="g23889-3"
-           transform="matrix(0.42012354,0,0,0.42012354,14.744556,58.009741)"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">
-          <g
-             id="g22600-9"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-             transform="matrix(-261.7876,0,0,261.7876,185.53447,115.82039)">
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-               id="path22596-2"
-               d="M 0.185972,0.05929083 0.191953,0.1388031 0.2361774,0.2010039 0.3190987,0.2301811 c 0.012374,0.004315 0.005768,0.0232717 -0.006606,0.0189606 L 0.2266854,0.2189448 c -0.001823,-6.3386e-4 -0.00348,-0.001799 -0.004724,-0.003457 L 0.1794338,0.1648697 0.0913236,0.1645508 0.018111,0.198913 C 0.0015323,0.205881 -0.0071764,0.18735 0.007422,0.1793973 0.0456189,0.1629957 0.0633314,0.1533382 0.0782212,0.1457989 0.0839181,0.1435309 0.0884377,0.1427119 0.0942842,0.1428189 L 0.1579023,0.1406099 0.1210142,0.07631953 0.089048,0.0964878 C 0.084233,0.0994839 0.0778354,0.0942909 0.0778354,0.0942909 L 0.0444653,0.0482082 C 0.038048,0.0393539 0.04545243,0.0301571 0.05186983,0.0390154 L 0.0868315,0.0781373 0.1342252,0.0486767 C 0.1359102,0.0476295 0.1520638,0.042598 0.1539732,0.0430114 L 0.2180283,0.0362949 c 0.006453,-0.0012087 0.0126142,0.0053622 0.0143031,0.0105354 0,0 0.0128317,0.04587653 0.0157547,0.05148678 0.002923,0.00561 -0.003208,0.01889846 -0.009448,0.0074805 L 0.2149535,0.0552831 Z"
-               class="fil0"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cccccccccccccccccccccccczccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-               id="path22598-8"
-               d="m 0.16303915,0.00269494 c 0.008881,0.01052481 -0.0121808,0.00780116 -0.0121808,0.02074206 0,0.0129449 -0.0104961,0.0234409 -0.023437,0.0234409 -0.0129449,0 -0.0251929,-0.01369204 -0.0229898,-0.02644799 0.004962,-0.02872812 0.0502596,-0.02762779 0.0586076,-0.01773497 z"
-               class="fil1"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="sssss" />
-          </g>
-        </g>
+           sodipodi:nodetypes="sssss" />
       </g>
-      <flowRoot
-         transform="matrix(0.66441427,0,0,0.66441427,-117.76045,-79.1014)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a3b08b;fill-opacity:0.98823529;stroke:none"
-         id="flowRoot24165-0"
-         xml:space="preserve"><flowRegion
-           style="fill:#a3b08b;fill-opacity:0.98823529"
-           id="flowRegion24167-1"><rect
-             style="fill:#a3b08b;fill-opacity:0.98823529"
-             y="261.26364"
-             x="326.68332"
-             height="100.40916"
-             width="277.18585"
-             id="rect24169-7" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#a3b08b;fill-opacity:0.98823529"
-           id="flowPara24171-8">Bioptim</flowPara></flowRoot>      <text
-         id="text24179-9"
-         y="130.52176"
-         x="189.31224"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.48984623px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#a3b08b;fill-opacity:0.98823529;stroke:none;stroke-width:0.23724587"
-         xml:space="preserve"><tspan
-           id="tspan24181-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66781855px;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#a3b08b;fill-opacity:0.98823529;stroke-width:0.23724587"
-           y="130.52176"
-           x="189.31224"
-           sodipodi:role="line">Biomechanical optimal control</tspan></text>
     </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot24165-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a3b08b;fill-opacity:0.98823529;stroke:none"
+       transform="matrix(0.66441427,0,0,0.66441427,-128.68133,-96.043312)"><flowRegion
+         id="flowRegion24167-1"
+         style="fill:#a3b08b;fill-opacity:0.98823529"><rect
+           id="rect24169-7"
+           width="277.18585"
+           height="100.40916"
+           x="326.68332"
+           y="261.26364"
+           style="fill:#a3b08b;fill-opacity:0.98823529" /></flowRegion><flowPara
+         id="flowPara24171-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;fill:#a3b08b;fill-opacity:0.98823529">Bioptim</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.48984623px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#a3b08b;fill-opacity:0.98823529;stroke:none;stroke-width:0.23724587"
+       x="178.39136"
+       y="113.57985"
+       id="text24179-9"><tspan
+         sodipodi:role="line"
+         x="178.39136"
+         y="113.57985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66781855px;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#a3b08b;fill-opacity:0.98823529;stroke-width:0.23724587"
+         id="tspan24181-1">Biomechanical optimal control</tspan></text>
   </g>
 </svg>
