@@ -15,7 +15,10 @@
    version="1.1"
    id="svg16307"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="biorbd_suite_logo.svg">
+   sodipodi:docname="biorbd_suite_logo.svg"
+   inkscape:export-filename="/home/pariterre/Programmation/biorbd_design/logo_png/biorbd_suite_logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs16301">
     <marker
@@ -228,7 +231,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="336.47114"
+     inkscape:cx="5.5451658"
      inkscape:cy="258.78749"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -251,7 +254,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

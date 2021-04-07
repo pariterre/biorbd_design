@@ -15,7 +15,10 @@
    version="1.1"
    id="svg903"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="bioptim_logo.svg">
+   sodipodi:docname="bioptim_logo.svg"
+   inkscape:export-filename="/home/pariterre/Programmation/biorbd_design/logo_png/bioptim_logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs897">
     <marker
@@ -60,7 +63,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="257.51661"
+     inkscape:cx="21.140916"
      inkscape:cy="48.517871"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -83,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
